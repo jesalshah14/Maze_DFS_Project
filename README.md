@@ -1,6 +1,5 @@
-# Maze_DFS_Project
-## Description - "490. The Maze" - LC - Depth-First Traversal
-
+# Maze : Depth First Traversal Project
+## Description - "490. The Maze" - LeetCode
 There is a ball in a maze with empty spaces and walls. The ball can go through empty spaces by rolling up, down, left or right, but it won't stop rolling until hitting a wall. When the ball stops, it could choose the next direction.
 Given the ball's start position, the destination and the maze, determine whether the ball could stop at the destination.
 
