@@ -12,13 +12,12 @@ https://leetcode.com/problems/the-maze/solution/
 - DFS with backtracking
 - Stack
 
-## Code: 
-[https://github.com/jesalshah14/Maze_DFS_Project/edit/main/maze_dfs_code.py]
+## Code: (https://github.com/jesalshah14/Maze_DFS_Project/blob/main/MAZE_DFS/maze_dfs_code.py)]
 
 
 ## How to run?
 
-### VSC on Windows:
+### VSC on windows:
 1. copy maze_dfs_code.py to your working directory
 2. click the run button on the VSC
    
