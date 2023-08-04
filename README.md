@@ -12,7 +12,8 @@ https://leetcode.com/problems/the-maze/solution/
 - DFS with backtracking
 - Stack
 
-## Code: (https://github.com/jesalshah14/Maze_DFS_Project/blob/main/MAZE_DFS/maze_dfs_code.py)]
+## Code: 
+https://github.com/jesalshah14/Maze_DFS_Project/blob/main/MAZE_DFS/maze_dfs_code.py
 
 
 ## How to run?
