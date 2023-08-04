@@ -33,4 +33,4 @@ https://github.com/jesalshah14/Maze_DFS_Project/blob/main/MAZE_DFS/maze_dfs_code
 2.Submit
 
 # Document(Google Slide): 
-https://docs.google.com/presentation/d/161AY1KOmKCsK6rWOd-gjEXoDj4yUZ052hssMqyI7OnY/edit?usp=sharing
+https://docs.google.com/presentation/d/1rIXt8_yaxvwWT3g5ZNl0fpTn6-faaDTW/edit?usp=sharing&ouid=107793102389817418175&rtpof=true&sd=true
