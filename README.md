@@ -19,17 +19,17 @@ https://leetcode.com/problems/the-maze/solution/
 
 ## How to run?
 
-####VSC on Windows:
+### VSC on Windows:
 1. copy maze_dfs_code.py to your working directory
 2. click the run button on the VSC
    
-####On ubuntu:
+### On ubuntu:
 1. copy the source file to your directory: 
     copy ~/maze_dfs_code.py to your dir 
 2. run python script file: 
     python3 maze_dfs_code.py
     
-####LeetCode platform:
+### LeetCode platform:
 1.Just copy the Class Solution to the Python editor in Leetcode
 2.Submit
 
